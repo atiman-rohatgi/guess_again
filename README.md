@@ -10,4 +10,4 @@ functionality
 
           -the range of the number for this game is (1-10).
           
-language: scheme
+language: prolog
